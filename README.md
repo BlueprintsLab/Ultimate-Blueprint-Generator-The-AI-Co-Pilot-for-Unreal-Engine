@@ -1,3 +1,5 @@
+<img width="1922" height="1082" alt="thumbnail" src="https://github.com/user-attachments/assets/4abf1bf8-6f43-4779-8166-87a3b3b274a9" />
+
 The ultimate AI copilot for Unreal Engine. Go beyond simple code generation: analyze your entire project's architecture, 
 build complex scenes and UI from a single command, and refactor Blueprints conversationally. This is a deeply integrated development partner that understands your code, your assets, and your context.
 
@@ -70,4 +72,5 @@ Licensing: This plugin is licensed per-seat. The included source code is for you
 This is more than a plugin. It's an investment in your skills, your time, and your creative freedom. Stop wiring. Start creating. Get Ultimate Blueprint Generator today.
 
 Note: The price of the plugin will increase as more functionalities are being added.
+
 
