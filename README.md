@@ -3,6 +3,8 @@
 The ultimate AI copilot for Unreal Engine. Go beyond simple code generation: analyze your entire project's architecture, 
 build complex scenes and UI from a single command, and refactor Blueprints conversationally. This is a deeply integrated development partner that understands your code, your assets, and your context.
 
+Version 0.1.5 is live as of 18th November, check out the logs to see what's new. 
+
 FAB Marketplace Link: https://www.fab.com/listings/8d776721-5da3-44ce-b7ef-be17a023be59
 
 Video Trailer: https://youtu.be/7ZEKIcZkyO4
@@ -72,5 +74,6 @@ Licensing: This plugin is licensed per-seat. The included source code is for you
 This is more than a plugin. It's an investment in your skills, your time, and your creative freedom. Stop wiring. Start creating. Get Ultimate Blueprint Generator today.
 
 Note: The price of the plugin will increase as more functionalities are being added.
+
 
 
